@@ -1,5 +1,0 @@
-#!/bin/bash
-echo 'running the pre push'
-npm run build
-
-exit 0
