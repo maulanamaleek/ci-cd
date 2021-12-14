@@ -1,5 +1,5 @@
-#!/bin/sh
-
+#!/bin/bash
+echo 'running the pre push'
 CMD="npm run build"
 
 exit 0
