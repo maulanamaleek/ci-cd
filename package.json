@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "private": false,
   "scripts": {
-    "build": "rollup -c && node obfuscator.js",
+    "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public --single --no-clear --host 0.0.0.0",
     "predeploy": "",
