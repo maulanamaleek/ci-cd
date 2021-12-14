@@ -8,7 +8,7 @@
     "start": "sirv public --single --no-clear --host 0.0.0.0",
     "predeploy": "",
     "deploy": "firebase deploy",
-    "preinstall": "git config core.hooksPath hooks/"
+    "preinstall": "git config core.hooksPath hooks"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",
