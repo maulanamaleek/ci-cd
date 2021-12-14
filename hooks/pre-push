@@ -1,0 +1,5 @@
+#!/bin/bash
+
+CMD="npm run build"
+
+exit 0
